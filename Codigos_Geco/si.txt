@@ -1,0 +1,8 @@
+
+revelar = Verdadero
+
+si revelar == Verdadero:
+	imprimir('¡Abrakadabra!')
+
+sino:
+	imprimir('Nada que mostrar')

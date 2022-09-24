@@ -1,0 +1,6 @@
+
+bucleActivo = Verdadero
+
+
+mientras bucleActivo == Verdadero:
+	imprimir('Soy un bucle infinito :)')
